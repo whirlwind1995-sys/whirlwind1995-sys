@@ -1,4 +1,5 @@
-## Hi there 👋
+## Xin chào, mình là phi
+Mình đang học Github
 
 <!--
 **whirlwind1995-sys/whirlwind1995-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
